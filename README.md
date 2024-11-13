@@ -15,7 +15,7 @@ This project is perfect for anyone looking to get hands-on experience with web s
 - **Excel Output**: Saves the scraped data to an Excel file for further analysis.
 
 ## 📚 Tech Stack
-- **Python 3.x**
+ **Python 3.x**
 - **`requests`**: To send HTTP requests to the website.
 - **`BeautifulSoup`**: To parse and extract HTML data.
 - **`openpyxl`**: To save the data in an Excel file.
