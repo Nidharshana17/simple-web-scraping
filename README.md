@@ -30,7 +30,8 @@ This project is perfect for anyone looking to get hands-on experience with web s
 2. **Running the Script**:
    - Open the terminal or command prompt.
    - Navigate to the project directory.
+   - Import necessary packages present in requirements.txt file
    - Run the Python script to start scraping:
    ```bash
-   python scrape_quotes_imdb.py
+   python scrape_Quotes.py
    ```
