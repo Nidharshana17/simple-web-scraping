@@ -1,6 +1,6 @@
-# Web Scraping - Quotes Scraper
+# 🌐Web Scraping - Quotes Scraper
 
-## Overview
+##🌀Overview
 This project demonstrates how to scrape data from [Quotes to Scrape](http://quotes.toscrape.com). It uses Python libraries such as `requests`, `BeautifulSoup`, and `openpyxl` to extract and store data into an Excel file.
 
 The goal is to gather:
@@ -10,7 +10,7 @@ The goal is to gather:
 
 This project is perfect for anyone looking to get hands-on experience with web scraping and data extraction using Python.
 
-## Features
+##🌀Features
 - **Quotes Scraper**: Extracts quotes, authors, and associated tags from the quotes.toscrape.com website.
 - **Excel Output**: Saves the scraped data to an Excel file for further analysis.
 
@@ -28,9 +28,9 @@ This project is perfect for anyone looking to get hands-on experience with web s
    cd web-scraping-project
    ```
 2. **Running the Script**:
-   -Open the terminal or command prompt.
-   -Navigate to the project directory.
-   -Run the Python script to start scraping:
+   - Open the terminal or command prompt.
+   - Navigate to the project directory.
+   - Run the Python script to start scraping:
    ```bash
    python scrape_quotes_imdb.py
    ```
